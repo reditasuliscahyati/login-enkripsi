@@ -40,7 +40,9 @@ This project demonstrates password hashing implementation using multiple algorit
 5. Open `localhost/folder-name` in browser
 
 # Screenshot
-
+![Register](register.png)
+![Login](login.png)
+![Dashboard](dashboard.png)
 
 # Author
 Redita Sulis Cahyati
